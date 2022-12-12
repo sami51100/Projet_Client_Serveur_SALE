@@ -1,0 +1,9 @@
+{
+    "adresseServeurTCP": "localhost",
+    "portServeurTCP": 5001,
+    "portEnvoiUDP": 5002,
+    "portEcouteUDP": 5003,
+    "portEcouteTare": 5004,
+    "portEnvoiTare": 5005,
+    "portEcouteTCP": 5006
+}

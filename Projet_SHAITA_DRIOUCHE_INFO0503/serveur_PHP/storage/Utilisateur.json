@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "DRIOUCHE",
+        "prenom": "Sami",
+        "adresse": "20 all\u00e9e des Bourguignons",
+        "login": "sami.driouche@etudiant.univ-reims.fr",
+        "password": "toto",
+        "id": 1
+    },
+    {
+        "nom": "SHAITA",
+        "prenom": "Fayssal",
+        "adresse": "8 all\u00e9e des Lorains",
+        "login": "fayssal.shaita@etudiant.univ-reims.fr",
+        "password": "titi",
+        "id": 2
+    },
+    {
+        "nom": "BOISSON",
+        "prenom": "Jean-charles",
+        "adresse": "5 all\u00e9e des Picard",
+        "login": "Jean-Charles.Boisson@univ-reims.fr",
+        "password": "tata",
+        "id": 3
+    }
+]

@@ -1,0 +1,13 @@
+.pied_page {
+    position: fixed;
+    bottom: 0px;
+}
+
+.contenir {
+    text-align: center;
+}
+
+.scroller {
+    overflow-y: scroll !important;
+    max-height: 440px !important;
+}
